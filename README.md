@@ -1,1 +1,1 @@
-# GitHub-Flavored Markdown3
+# GitHub
